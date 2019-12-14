@@ -1,0 +1,310 @@
+--web-view-name: Web 1366 – 1;
+		--web-view-id: Web_1366___1;
+		--web-scale-on-resize: true;
+		--web-enable-deep-linking: true;
+	}
+	:root {
+		--web-view-ids: Web_1366___1;
+	}
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+	}
+	#Web_1366___1 {
+		position: absolute;
+		background: #E5E5E5;
+		width: 1366px;
+		height: 768px;
+		background-color: rgba(255,255,255,1);
+		overflow: hidden;
+		--web-view-name: Web 1366 – 1;
+		--web-view-id: Web_1366___1;
+		--web-scale-on-resize: true;
+		--web-enable-deep-linking: true;
+	}
+	.Rectangle_1 {
+		position: absolute;
+		overflow: visible;
+		width: 1035px;
+		height: 154px;
+		left: 331px;
+		top: 0px;
+	}
+	#myuicportal {
+		position: absolute;
+		width: 243px;
+		height: 101px;
+		left: 33px;
+		top: 36px;
+		overflow: visible;
+	}
+	#uic_dark_logo {
+		position: absolute;
+		width: 152px;
+		height: 136px;
+		left: 1214px;
+		top: 9px;
+		overflow: visible;
+	}
+	#JOESYL_TOGONON_ALUMNI_BATCH_20 {
+		position: absolute;
+		left: 504px;
+		top: 30px;
+		overflow: hidden;
+		width: 252px;
+		height: 94px;
+		text-align: left;
+		font-family: Times New Roman;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 27px;
+		color: rgba(16,2,2,1);
+	}
+	#home {
+		position: absolute;
+		width: 67px;
+		height: 67px;
+		left: 33px;
+		top: 262px;
+		overflow: visible;
+	}
+	#HOME_l {
+		position: absolute;
+		left: 116px;
+		top: 278px;
+		overflow: hidden;
+		width: 137px;
+		height: 60px;
+		text-align: left;
+		font-family: Times New Roman;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 27px;
+		color: rgba(16,2,2,1);
+	}
+	#icons8_person_80 {
+		position: absolute;
+		width: 136px;
+		height: 136px;
+		left: 353px;
+		top: 9px;
+		overflow: visible;
+	}
+	#user_profile {
+		position: absolute;
+		width: 77px;
+		height: 77px;
+		left: 23px;
+		top: 368px;
+		overflow: visible;
+	}
+	#PROFILE {
+		position: absolute;
+		left: 112px;
+		top: 384px;
+		overflow: hidden;
+		width: 111px;
+		height: 61px;
+		text-align: left;
+		font-family: Times New Roman;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 27px;
+		color: rgba(16,2,2,1);
+	}
+	#notif_bell {
+		position: absolute;
+		width: 72px;
+		height: 72px;
+		left: 23px;
+		top: 484px;
+		overflow: visible;
+	}
+	#NOTIFICATIONS {
+		position: absolute;
+		left: 110px;
+		top: 499px;
+		overflow: hidden;
+		width: 216px;
+		height: 65px;
+		text-align: left;
+		font-family: Times New Roman;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 27px;
+		color: rgba(16,2,2,1);
+	}
+	#settings {
+		position: absolute;
+		width: 78px;
+		height: 78px;
+		left: 20px;
+		top: 595px;
+		overflow: visible;
+	}
+	#SETTINGS_s {
+		position: absolute;
+		left: 112px;
+		top: 610px;
+		overflow: hidden;
+		width: 212px;
+		height: 51px;
+		text-align: left;
+		font-family: Times New Roman;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 27px;
+		color: rgba(16,2,2,1);
+	}
+	.Line_1 {
+		overflow: visible;
+		position: absolute;
+		width: 321px;
+		height: 1px;
+		left: 4.5px;
+		top: 154.5px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	.Line_2 {
+		overflow: visible;
+		position: absolute;
+		width: 1px;
+		height: 579px;
+		left: 331.5px;
+		top: 173.5px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	.Rectangle_2 {
+		position: absolute;
+		overflow: visible;
+		width: 285px;
+		height: 62px;
+		left: 379px;
+		top: 246px;
+	}
+	#UNIVERSITY_NEWS_ {
+		position: absolute;
+		left: 397px;
+		top: 262px;
+		overflow: hidden;
+		width: 261px;
+		height: 34px;
+		text-align: left;
+		font-family: Times New Roman;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 27px;
+		color: rgba(16,2,2,1);
+	}
+	.Rectangle_3 {
+		position: absolute;
+		overflow: visible;
+		width: 508px;
+		height: 441px;
+		left: 353px;
+		top: 323px;
+	}
+	#news {
+		position: absolute;
+		width: 230px;
+		height: 296px;
+		left: 379px;
+		top: 338px;
+		overflow: visible;
+	}
+	#news1 {
+		position: absolute;
+		width: 195px;
+		height: 296px;
+		left: 634px;
+		top: 338px;
+		overflow: visible;
+	}
+	#scroll {
+		position: absolute;
+		width: 13px;
+		height: 609px;
+		left: 1353px;
+		top: 159px;
+		overflow: visible;
+	}
+	.Rectangle_4 {
+		position: absolute;
+		overflow: visible;
+		width: 257px;
+		height: 58px;
+		left: 881px;
+		top: 248px;
+	}
+	#EDUCATIONAL_RESOURCES_ {
+		position: absolute;
+		left: 912.5px;
+		top: 246.5px;
+		overflow: hidden;
+		width: 210px;
+		height: 77px;
+		text-align: left;
+		font-family: Times New Roman;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 27px;
+		color: rgba(16,2,2,1);
+	}
+	.Rectangle_5 {
+		position: absolute;
+		overflow: visible;
+		width: 409px;
+		height: 445px;
+		left: 881px;
+		top: 323px;
+	}
+	#elms {
+		position: absolute;
+		width: 133px;
+		height: 59px;
+		left: 893px;
+		top: 338px;
+		overflow: visible;
+	}
+	#emerald {
+		position: absolute;
+		width: 149px;
+		height: 73px;
+		left: 1094px;
+		top: 429px;
+		overflow: visible;
+	}
+	#ig_lib {
+		position: absolute;
+		width: 129px;
+		height: 62px;
+		left: 897px;
+		top: 437px;
+		overflow: visible;
+	}
+	#infoboard {
+		position: absolute;
+		width: 152px;
+		height: 59px;
+		left: 1098px;
+		top: 338px;
+		overflow: visible;
+	}
+	#sage {
+		position: absolute;
+		width: 133px;
+		height: 67px;
+		left: 897px;
+		top: 539px;
+		overflow: visible;
+	}
+	#messenger {
+		position: absolute;
+		width: 252px;
+		height: 280px;
+		left: 1094px;
+		top: 473px;
+		overflow: visible;
+	}
